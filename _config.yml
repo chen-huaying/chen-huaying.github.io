@@ -55,7 +55,7 @@ al_folio:
     allow_remote_loader: true
   features:
     cv:
-      enabled: true
+      enabled: false
     distill:
       enabled: true
   compat:
@@ -183,7 +183,7 @@ collections:
   projects:
     output: false
   teachings:
-    output: true
+    output: false
   people:           
     output: false
 # -----------------------------------------------------------------------------
@@ -690,3 +690,4 @@ jsonresume:
   - languages
   - interests
   - references
+navbar_pages: [about.md]
