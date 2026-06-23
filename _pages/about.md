@@ -33,56 +33,27 @@ I was raised between Guangdong and Hong Kong SAR, China. Over the years, my acad
 
 
 <style>
-  /* 隐藏底部的黑色社交图标区域 */
-  .social, .social-icons, footer .social { 
-    display: none !important; 
+  footer, .sticky-bottom, .fixed-bottom, .social, .social-icons, footer .social {
+    display: none !important;
   }
-  
-  /* 隐藏最底部的黑色版权声明条 */
-  footer, .sticky-bottom, .fixed-bottom { 
-    display: none !important; 
-  }
-  
-  /*  */
   body {
     padding-bottom: 60px !important;
   }
-</style>
-<style>
-
-  /* 2. 强行隐藏包含 submenus 文本或带下拉菜单功能的标签 */
-  .navbar-nav .nav-item.dropdown,
-  .navbar-nav .nav-item:has(a[href*="dropdown"]),
-  .navbar-nav .nav-item a:contains("submenus") {
+  .navbar-nav .nav-item.dropdown {
     display: none !important;
   }
-</style>
-
-* selected publications 标题 *
-<style>
-  .publications h2, 
-  section h2 {
+  h2 {
+    font-size: 1.1rem !important;
+    margin-top: 1.8rem !important;
+    margin-bottom: 0.4rem !important;
+  }
+  .publications h2 {
     font-size: 0.8rem !important;
-    font-weight: 600 !important;
-    color: #222222 !important;
-    margin-top: 2.5rem !important;
-    margin-bottom: 1rem !important;
+    margin-top: 2rem !important;
+    margin-bottom: 0.5rem !important;
   }
 </style>
 
-/* Teaching 区块 */
-h2 {
-  font-size: 1.3rem !important;
-  margin-top: 2rem !important;
-  margin-bottom: 0.5rem !important;
-}
-
-h3 {
-  font-size: 1rem !important;
-  font-weight: 600 !important;
-  margin-top: 0.8rem !important;
-  margin-bottom: 0.3rem !important;
-}
 ## Teaching
 
 **NUS Business School**
