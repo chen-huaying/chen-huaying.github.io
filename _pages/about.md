@@ -25,11 +25,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Chen Huaying, a Ph.D. student at NUS Business School.
+Hi! I'm CHEN Huaying (陈桦颍), a Ph.D. student at the NUS Business School Real Estate Department, National University of Singapore. I received my MSc Real Estate from NUS Business School and MA Economics from the University of Edinburgh.
 
 My research focuses on Urban economics, Housing Policies, and Environmental economics.
 
-I received my MSc Real Estate from NUS Business School and MA Economics from the University of Edinburgh.
+I was raised between Guangdong and Hong Kong SAR, China. Over the years, my academic pursuits have spanned several global hubs, taking me to Singapore as well as Edinburgh and Cambridge in the UK.
 
 
-
+<style>
+  /* 强行隐藏底部的黑色社交图标区域 */
+  .social, .social-icons, footer .social { 
+    display: none !important; 
+  }
+  
+  /* 强行隐藏最底部的黑色版权声明条 */
+  footer, .sticky-bottom, .fixed-bottom { 
+    display: none !important; 
+  }
+  
+  /* 稍微调整一下页面底部的留白，让它看起来更美观 */
+  body {
+    padding-bottom: 60px !important;
+  }
+</style>
