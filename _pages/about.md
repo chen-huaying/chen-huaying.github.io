@@ -58,19 +58,33 @@ I was raised between Guangdong and Hong Kong SAR, China. Over the years, my acad
   }
 </style>
 
+* selected publications 标题 *
 <style>
   .publications h2, 
   section h2 {
-    font-size: 1.2rem !important;
+    font-size: 0.8rem !important;
     font-weight: 600 !important;
     color: #222222 !important;
     margin-top: 2.5rem !important;
-    margin-bottom: 1.2rem !important;
+    margin-bottom: 1rem !important;
   }
 </style>
 
+/* Teaching 区块 */
+h2 {
+  font-size: 1.3rem !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+h3 {
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  margin-top: 0.8rem !important;
+  margin-bottom: 0.3rem !important;
+}
 ## Teaching
 
-### NUS Business School
+**NUS Business School**
 
-*RE3705/RE3901 Urban Planning/Advanced Urban Planning* · Teaching Assistant · 2026
+RE3705/RE3901 Urban Planning/Advanced Urban Planning · Teaching Assistant · 2026
