@@ -1,12 +1,21 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
-nav_order: 5
-cv_pdf: https://chen-huaying.github.io/assets/pdf/ChenHuaying_CV.pdf
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 3
+cv_pdf: assets/pdf/Chen_Huaying_CV.pdf  #
 ---
+
+<div class="mt-5 text-center">
+  <p>My complete academic CV is available for download below:</p>
+  <a href="{{ 'assets/pdf/Chen_Huaying_CV.pdf' | relative_url }}" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer">
+    <i class="fa-solid fa-file-pdf"></i> Download PDF CV
+  </a>
+</div>
+
+<!--  -->
+<style>
+  .cv { display: none !important; }
+  .post { display: block !important; } /*  */
+</style>
