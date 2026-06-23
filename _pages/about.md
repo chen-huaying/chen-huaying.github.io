@@ -29,7 +29,7 @@ Hi! I'm Chen Huaying, a Ph.D. student at NUS Business School.
 
 My research focuses on Urban economics, Housing Policies, and Environmental economics.
 
-I received my MSc Real Estate from NUS Business School and MA Economics from The University of Edinburgh.
+I received my MSc Real Estate from NUS Business School and MA Economics from the University of Edinburgh.
 
 
 
