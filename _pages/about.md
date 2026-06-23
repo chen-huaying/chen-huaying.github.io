@@ -59,14 +59,12 @@ I was raised between Guangdong and Hong Kong SAR, China. Over the years, my acad
 </style>
 
 <style>
-  /* 美化选定论文标题 */
-  #about-page h2 {
-    font-size: 1.65rem !important;      /* 减小字号，让它和你的正文更协调 */
-    font-weight: 600 !important;        /* 让字体加粗，显得有学术严谨感 */
-    text-transform: capitalize !important; /* 强制将全小写转换成首字母大写: Selected Publications */
-    letter-spacing: -0.025em !important;  /* 稍微收紧紧凑度，更有大厂主页高级感 */
-    color: #222222 !important;          /* 颜色更沉稳 */
-    margin-top: 2.5rem !important;      /* 与上方正文拉开舒适的空白距离 */
+  .publications h2, 
+  section h2 {
+    font-size: 1.2rem !important;
+    font-weight: 600 !important;
+    color: #222222 !important;
+    margin-top: 2.5rem !important;
     margin-bottom: 1.2rem !important;
   }
 </style>
