@@ -70,3 +70,9 @@ I was raised between Guangdong and Hong Kong SAR, China. Over the years, my acad
     margin-bottom: 1.2rem !important;
   }
 </style>
+
+## Teaching
+
+### NUS Business School
+
+*RE3705/RE3901 Urban Planning/Advanced Urban Planning* · Teaching Assistant · 2026
