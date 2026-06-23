@@ -33,17 +33,17 @@ I was raised between Guangdong and Hong Kong SAR, China. Over the years, my acad
 
 
 <style>
-  /* 强行隐藏底部的黑色社交图标区域 */
+  /* 隐藏底部的黑色社交图标区域 */
   .social, .social-icons, footer .social { 
     display: none !important; 
   }
   
-  /* 强行隐藏最底部的黑色版权声明条 */
+  /* 隐藏最底部的黑色版权声明条 */
   footer, .sticky-bottom, .fixed-bottom { 
     display: none !important; 
   }
   
-  /* 稍微调整一下页面底部的留白，让它看起来更美观 */
+  /*  */
   body {
     padding-bottom: 60px !important;
   }
